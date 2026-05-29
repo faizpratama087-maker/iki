@@ -1,0 +1,6 @@
+{
+  "name": "HD Video Clipper",
+  "description": "Free video clipping, fast processing, and HD quality without paying! Trim and crop MP4 videos instantly without watermark in 720p or 1080p.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
