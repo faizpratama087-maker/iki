@@ -1,0 +1,6 @@
+{
+  "name": "just frend",
+  "description": "Aplikasi web bucin interaktif terlengkap dengan fitur Surat Cinta AI, Kalkulator Bucin, Perjanjian Komitmen Cinta, Kuis Bucin, Kupon Manja Pasangan, Galeri Kenangan, dan Efek Hujan Bunga Cinta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
